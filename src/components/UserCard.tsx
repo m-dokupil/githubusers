@@ -76,7 +76,7 @@ export const UserCard: React.FC<UserCardProps> = ({ user, isLoading, searchTerm 
     >
       <Box 
         sx={{ 
-          width: { xs: '90%' },
+          width: { xs: '90%', md: '50%', lg: 'auto' },
           transform: `translateY(${randomOffset}px)`
         }}
       >
