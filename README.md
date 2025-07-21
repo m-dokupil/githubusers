@@ -2,6 +2,8 @@
 
 A simple React application for searching and exploring GitHub user profiles.
 
+https://1ghusers.netlify.app/
+
 ## Features
 
 - Search for GitHub users by username
